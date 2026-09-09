@@ -42,7 +42,7 @@ irgsh-cli package --dist sinambung --package https://github.com/blankon-packages
 ## calamares-settings-blankon
 
 ```
-irgsh-cli package --dist sinambung --package https://github.com/blankon-packages/calamares-settings-blankon.git --package-branch remove-live-user --source https://salsa.debian.org/live-team/calamares-settings-debian.git --source-branch master --ignore-checks
+irgsh-cli package --dist sinambung --package https://github.com/blankon-packages/calamares-settings-blankon.git --package-branch sinambung --source https://salsa.debian.org/live-team/calamares-settings-debian.git --source-branch master --ignore-checks
 ```
 
 ## praya-gnome-shell-extension
