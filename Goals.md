@@ -13,3 +13,5 @@ BlankOn Linux is a "factory for exceptional people", a place where contributors 
 To deliver a high-quality and sustainable product for users: a Linux distribution designed to meet the general-purpose needs of the Indonesian community.
 
 The project is committed not only to technical excellence, but also to long-term sustainability and relevance for its users.
+
+For now, the distribution's key value proposition is to provide a rolling release based on Debian Sid, while protecting users from the instability that can come with running Sid directly. By carefully testing and guarding updates before they reach users, the project aims to provide the freshness of a rolling release with a more stable and reliable user experience.
