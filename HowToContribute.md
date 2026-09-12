@@ -4,6 +4,8 @@
 
 The quickest way to start contributing is by joining our Telegram group (https://t.me/BlankOnLinux/51909). Follow the ongoing discussions, understand the current priorities, and take action to help the team as a Freelance Contributor.
 
+Another quick way to contribute is by installing the development ISO and/or pointing your daily driver to our development repository (arsip-dev.blankonlinux.id). Test it, and report any findings or issues you encounter.
+
 If you are not sure, feel free to lurking around our wiki to get better understanding of our project.
 
 If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee. please send an email to blankon-dev@googlegroups.com.We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/revival/blob/main/Goals.md) and your potential role within it.
