@@ -1,5 +1,5 @@
 # Guides
 
-- [Docker Installation on BlankOn](Docker.md)
-- [Ghostty](Ghostty.md)
-- [Praya](Praya.md)
+- [Docker Installation on BlankOn](./Docker.md)
+- [Ghostty](./Ghostty.md)
+- [Praya](./Praya.md)
