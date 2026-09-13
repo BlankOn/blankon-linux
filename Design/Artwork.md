@@ -16,7 +16,7 @@ Maintain visual consistency across all components: icons, themes, wallpapers, bo
 
 ### 4. Open Format
 
-All artwork must use open and editable formats whenever possible (e.g., SVG instead of proprietary formats). This ensures transparency, easier collaboration, long-term maintainability, and alignment with open-source principles. The use of closed-source design tools is allowed. However, all final and source assets must be stored and shared in open, editable formats (such as SVG) to ensure transparency, long-term maintainability, and alignment with open-source values.
+All artwork should use open and editable formats whenever possible, such as SVG instead of proprietary formats. Closed-source design tools may be used, but all final and source assets must be exported and shared in open, editable formats to ensure long-term maintainability, easy collaboration, and alignment with open-source principles.
 
 ### 5. No Generative AI
 
