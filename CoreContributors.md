@@ -12,6 +12,11 @@
   - Kunci Publik GPG: `ACCEE4B8B397CC2EF35FD56E4F158668A284AE23`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB2P5H7v66C4C5osmOgz1IFfMeunj8gXEh/ByWXrvxeP dzakwan.corp@gmail.com`
   - Kota: Depok
+- Alif Radhitya Wardana <alif@radhitya.org> (Radhitya)
+  - Telegram: al1r4d
+  - Kunci Publik GPG: `33BEF87D658ED9CA25BA878068B7916E15373835`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGiTHf3dPbPuCqufPSWmNhYQhrmaG3rGb5DyVq8esToR`
+  - Kota: Surabaya
 
 ## Package Maintainer
 
