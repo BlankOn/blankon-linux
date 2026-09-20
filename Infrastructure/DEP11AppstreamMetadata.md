@@ -18,11 +18,11 @@ Configuration could be written in a JSON file like this, `asgen-config.json`:
     "MediaBaseUrl": "https://arsip-dev.blankonlinux.id/dev/media",
     "HtmlBaseUrl": "https://arsip-dev.blankonlinux.id/dev/report",
     "WorkspaceDir": "/var/lib/asgen/workspace",
-    "ArchiveRoot": "/var/lib/irgsh/repo/verbeek/www",
+    "ArchiveRoot": "/var/lib/irgsh/repo/sinambung/www",
     "Suites": {
-        "verbeek": {
+        "sinambung": {
             "dataPriority": 10,
-            "baseSuite": "verbeek",
+            "baseSuite": "sinambung",
             "sections": ["main", "restricted", "extras", "restricted-firmware"],
             "architectures": ["amd64"]
         }
@@ -35,7 +35,7 @@ Configuration could be written in a JSON file like this, `asgen-config.json`:
 Generate command will try to scan your repository then put the generated data under `./db/` directory. This will take hours.
 
 ```
-sudo appstream-generator -c asgen-config.json run verbeek
+sudo appstream-generator -c asgen-config.json run sinambung
 ```
 
 ### Publish
@@ -43,7 +43,7 @@ sudo appstream-generator -c asgen-config.json run verbeek
 To make it ready to be integrated with the repository, you need to publish/export it, the result will be written under `./export/` directory,
 
 ```
-sudo appstream-generator -c asgen-config.json publish verbeek
+sudo appstream-generator -c asgen-config.json publish sinambung
 ```
 
 ### Integration
@@ -53,7 +53,7 @@ sudo appstream-generator -c asgen-config.json publish verbeek
 We can't just copy the generated files into our reposotry, we need to include them to Release file as well and re-sign the Release file with the same GPG key that used to sign the repository. Use the integrator script from this repository: `https://github.com/BlankOn/asgen2reprepro` to properly inject the generated appstream metadata to reprepro repository.
 
 ```
-sudo ./integrate.sh  --basedir /var/lib/asgen/workspace --distributions /var/lib/irgsh/repo/verbeek/conf/distributions --dist /var/lib/irgsh/repo/verbeek/www/dists/verbeek --gpg-key 4ED6DAC2513877832D7B16838E50AD1822A85905
+sudo ./integrate.sh  --basedir /var/lib/asgen/workspace --distributions /var/lib/irgsh/repo/sinambung/conf/distributions --dist /var/lib/irgsh/repo/sinambung/www/dists/sinambung --gpg-key 4ED6DAC2513877832D7B16838E50AD1822A85905
 ```
 
 #### Web services
@@ -85,7 +85,7 @@ protocol://domain/path
 #### Using asgen2reprepro check script
 
 ```
-sudo ./check.sh --url http://arsip-dev.blankonlinux.id/dev --dist verbeek --arch amd64
+sudo ./check.sh --url http://arsip-dev.blankonlinux.id/dev --dist sinambung --arch amd64
 ```
 
 Example output:
@@ -106,28 +106,28 @@ APT Integration Test
   [WARN]   APT fetched DEP-11 metadata                                  No DEP-11 lines in apt update output
 
   3. DEP-11 Files in APT Lists (/var/lib/apt/lists)
-  [PASS]   Components-amd64.yml (verbeek/main)                          arsip-dev.blankonlinux.id_dev_dists_verbeek_main_dep11_Components-amd64.yml.gz (6490681 bytes)
-  [PASS]   icons-48x48.tar (verbeek/main)                               arsip-dev.blankonlinux.id_dev_dists_verbeek_main_dep11_icons-48x48.tar.gz (2190092 bytes)
-  [PASS]   icons-64x64.tar (verbeek/main)                               arsip-dev.blankonlinux.id_dev_dists_verbeek_main_dep11_icons-64x64.tar.gz (3434445 bytes)
-  [PASS]   Components-amd64.yml (verbeek/restricted)                    arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted_dep11_Components-amd64.yml.gz (159 bytes)
-  [PASS]   icons-48x48.tar (verbeek/restricted)                         arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted_dep11_icons-48x48.tar.gz (29 bytes)
-  [PASS]   icons-64x64.tar (verbeek/restricted)                         arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted_dep11_icons-64x64.tar.gz (29 bytes)
-  [PASS]   Components-amd64.yml (verbeek/extras)                        arsip-dev.blankonlinux.id_dev_dists_verbeek_extras_dep11_Components-amd64.yml.gz (157 bytes)
-  [PASS]   icons-48x48.tar (verbeek/extras)                             arsip-dev.blankonlinux.id_dev_dists_verbeek_extras_dep11_icons-48x48.tar.gz (29 bytes)
-  [PASS]   icons-64x64.tar (verbeek/extras)                             arsip-dev.blankonlinux.id_dev_dists_verbeek_extras_dep11_icons-64x64.tar.gz (29 bytes)
-  [PASS]   Components-amd64.yml (verbeek/restricted-firmware)           arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted-firmware_dep11_Components-amd64.yml.gz (166 bytes)
-  [PASS]   icons-48x48.tar (verbeek/restricted-firmware)                arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted-firmware_dep11_icons-48x48.tar.gz (29 bytes)
-  [PASS]   icons-64x64.tar (verbeek/restricted-firmware)                arsip-dev.blankonlinux.id_dev_dists_verbeek_restricted-firmware_dep11_icons-64x64.tar.gz (29 bytes)
+  [PASS]   Components-amd64.yml (sinambung/main)                          arsip-dev.blankonlinux.id_dev_dists_sinambung_main_dep11_Components-amd64.yml.gz (6490681 bytes)
+  [PASS]   icons-48x48.tar (sinambung/main)                               arsip-dev.blankonlinux.id_dev_dists_sinambung_main_dep11_icons-48x48.tar.gz (2190092 bytes)
+  [PASS]   icons-64x64.tar (sinambung/main)                               arsip-dev.blankonlinux.id_dev_dists_sinambung_main_dep11_icons-64x64.tar.gz (3434445 bytes)
+  [PASS]   Components-amd64.yml (sinambung/restricted)                    arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted_dep11_Components-amd64.yml.gz (159 bytes)
+  [PASS]   icons-48x48.tar (sinambung/restricted)                         arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted_dep11_icons-48x48.tar.gz (29 bytes)
+  [PASS]   icons-64x64.tar (sinambung/restricted)                         arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted_dep11_icons-64x64.tar.gz (29 bytes)
+  [PASS]   Components-amd64.yml (sinambung/extras)                        arsip-dev.blankonlinux.id_dev_dists_sinambung_extras_dep11_Components-amd64.yml.gz (157 bytes)
+  [PASS]   icons-48x48.tar (sinambung/extras)                             arsip-dev.blankonlinux.id_dev_dists_sinambung_extras_dep11_icons-48x48.tar.gz (29 bytes)
+  [PASS]   icons-64x64.tar (sinambung/extras)                             arsip-dev.blankonlinux.id_dev_dists_sinambung_extras_dep11_icons-64x64.tar.gz (29 bytes)
+  [PASS]   Components-amd64.yml (sinambung/restricted-firmware)           arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted-firmware_dep11_Components-amd64.yml.gz (166 bytes)
+  [PASS]   icons-48x48.tar (sinambung/restricted-firmware)                arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted-firmware_dep11_icons-48x48.tar.gz (29 bytes)
+  [PASS]   icons-64x64.tar (sinambung/restricted-firmware)                arsip-dev.blankonlinux.id_dev_dists_sinambung_restricted-firmware_dep11_icons-64x64.tar.gz (29 bytes)
 
   4. AppStream Cache (GNOME Software readiness)
   [PASS]   appstreamcli is installed                                    AppStream versi: 1.1.2
   Running sudo appstreamcli refresh --force...
   [PASS]   appstreamcli refresh succeeded                               
   [PASS]   AppStream catalog cache exists                               4 file(s) in /var/cache/swcatalog/cache
-  [PASS]   Icon cache (verbeek/main)                                    blankon-verbeek-main/ (2051 file(s))
-  [PASS]   Icon cache (verbeek/restricted)                              blankon-verbeek-restricted/ (0 file(s))
-  [PASS]   Icon cache (verbeek/extras)                                  blankon-verbeek-extras/ (0 file(s))
-  [PASS]   Icon cache (verbeek/restricted-firmware)                     blankon-verbeek-restricted-firmware/ (0 file(s))
+  [PASS]   Icon cache (sinambung/main)                                    blankon-sinambung-main/ (2051 file(s))
+  [PASS]   Icon cache (sinambung/restricted)                              blankon-sinambung-restricted/ (0 file(s))
+  [PASS]   Icon cache (sinambung/extras)                                  blankon-sinambung-extras/ (0 file(s))
+  [PASS]   Icon cache (sinambung/restricted-firmware)                     blankon-sinambung-restricted-firmware/ (0 file(s))
   [PASS]   appstreamcli can find components                             io.github.lxqt.screengrab
 
 Summary
