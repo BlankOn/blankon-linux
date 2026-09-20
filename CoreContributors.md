@@ -67,11 +67,11 @@
 Mention all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @TreeFPV @esteween
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween
 ```
 
-Batch recienpts for email,
+Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id
 ```
