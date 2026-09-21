@@ -64,7 +64,7 @@
 
 ---
 
-Mention all in Telegram,
+Mention them all in Telegram,
 
 ```
 @harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween
