@@ -25,9 +25,9 @@ This repository contains configuration and script to build the ISO using Debian 
 ```
 git clone https://github.com/BlankOn/blankon-live-build
 mkdir live-build-workdir
-cp blankon-live-build/build.sh live-build-workdir/build.sh
+cp blankon-live-build/build-iso live-build-workdir/build-iso
 cd live-build-workdir
-sudo ./build.sh https://github.com/BlankOn/blankon-live-build verbeek
+sudo yes | sudo ./build-iso https://github.com/BlankOn/blankon-live-build.git sinambung
 ```
 
 ## General Workflow
