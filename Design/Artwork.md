@@ -18,8 +18,10 @@ Maintain visual consistency across all components: icons, themes, wallpapers, bo
 
 All artwork should use open and editable formats whenever possible, such as SVG instead of proprietary formats. Closed-source design tools may be used, but all final and source assets must be exported and shared in open, editable formats to ensure long-term maintainability, easy collaboration, and alignment with open-source principles.
 
-### 5. No Generative AI
+### 5. Generative AI
 
-The use of generative AI for creating artwork is not permitted at this time. This policy may be reviewed and re-evaluated periodically as technology, legal considerations, and community perspectives evolve.
+The use of generative AI for creating artwork is permitted, provided that it is used as a supporting tool rather than a replacement for human design judgment. Any AI-assisted artwork should be guided, reviewed, and refined by someone with a sound understanding of design principles, visual communication, and the project's artistic direction.
+
+The use of generative AI should not replace thoughtful design decisions, and contributors remain responsible for the quality, appropriateness, and originality of the final work.
 
 For code contribution, please see our Artificial Intelligence Policy here: https://github.com/BlankOn/revival/blob/main/ArtificialIntelligencePolicy.md
