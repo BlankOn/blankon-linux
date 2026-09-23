@@ -18,6 +18,8 @@ Signed-By: /usr/share/keyrings/blankon-archive-keyring.gpg
 
 This is the development repository, which is synced with Sid from time to time and may break your system. This repository is used by the development team to test packages and system changes.
 
+The only difference here, it is `arsip-dev` instead of just `arsip`.
+
 Path: `/etc/apt/sources.list.d/blankon.sources`
 
 ```
