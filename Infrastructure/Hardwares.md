@@ -25,6 +25,18 @@ Most of the hardware come from donation/sponsorships toward BlankOn Foundation, 
 - Ownership: Muhammad Raska
 - Sponsorship: Muhammad Raska
 
+### kaipang.blankonlinux.id
+
+- Purposes: Mirror, Supported Initiatives
+- OPNsense (firewall)
+  - 2 vCPU · 4 GB RAM · 30 GB disk
+- Proxmox BlankOn
+  - 12 vCPU · 20 GB RAM · 50 GB + 2 TB disk
+- Location: Confidential
+- Term of service: September 10, 2026 until now
+- Ownership: PT Clarus Innovace Teknologi
+- Sponsorship: PT Clarus Innovace Teknologi
+
 ### arm64
 
 - Purposes: ARM architecture research, compute (build)
@@ -36,14 +48,14 @@ Most of the hardware come from donation/sponsorships toward BlankOn Foundation, 
 - Sponsorship: Saputro Aryulianto
 
 
-### revival.blankonlinux.id
+### revival.blankonlinux.id [DISMISSED]
 
 - Purpose:
   - Development
 - Specification: amd64, Lenovo M920x (8 cores intel i7 9700 / 64GB RAM / 1TB SSD / 4x Gigabit LAN)
 - OS: Proxmox 9.1-1
 - Location: Confidential
-- Term of service: December 30, 025 until now
+- Term of service: December 30, 2025 until 22 May 2026
 - Ownership: Herpiko Dwi Aguno
 - Sponsorship: Herpiko Dwi Aguno
 - Loaned peripherals:
@@ -68,10 +80,20 @@ Most of the hardware come from donation/sponsorships toward BlankOn Foundation, 
 - Assignment: Akhmat Safrudin
 - Specification: core i7-1185G7, 16gb ddr4 3200mhz onboard, nvme 256gb
 - OS: -
-- Location: Depok
+- Location: Jagakarsa
 - Ownership: BlankOn Foundation
 - Donor: Utian Ayuba
 - Term of service: February 26, 2026 until now
+
+### Thinkpad X13 Gen 1
+
+- Assignment: Herpiko Dwi Aguno
+- Specification: core i5, 16gb ddr4 3200mhz onboard, nvme 256gb
+- OS: -
+- Location: Depok
+- Ownership: BlankOn Foundation
+- Donor: Anonymous
+- Term of service: September 18, 2026 until now
 
 ## Peripherals
 
