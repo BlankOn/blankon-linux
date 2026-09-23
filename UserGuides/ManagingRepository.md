@@ -14,7 +14,7 @@ Components: main extras restricted restricted-firmware
 Signed-By: /usr/share/keyrings/blankon-archive-keyring.gpg
 ```
 
-### Arsipd-dev - Sinambung
+### Arsip-dev - Sinambung
 
 This is the development repository, which is synced with Sid from time to time and may break your system. This repository is used by the development team to test packages and system changes.
 
@@ -30,7 +30,7 @@ Components: main extras restricted restricted-firmware
 Signed-By: /usr/share/keyrings/blankon-archive-keyring.gpg
 ```
 
-#### Arsip - Verbeek and Arsipd-dev - Verbeek
+#### Arsip - Verbeek and Arsip-dev - Verbeek
 
 Verbeek has been discontinued and continue as ISO code name. It is no longer has any dedicated repository for its own.
 
