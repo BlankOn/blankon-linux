@@ -8,7 +8,7 @@ Another quick way to contribute is by installing the development ISO and/or poin
 
 If you are not sure, feel free to lurking around our wiki to get better understanding of our project.
 
-If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee. please send an email to blankon-dev@googlegroups.com.We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/revival/blob/main/Goals.md) and your potential role within it.
+If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee. please send an email to blankon-dev@googlegroups.com.We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/blankon-linux/blob/main/Goals.md) and your potential role within it.
 
 For further explanation about contributor categories and their contribution areas, please see the sections below.
 
@@ -22,7 +22,7 @@ Core Contributors are individuals who are committed to the project for the long 
 
 Core Contributors often serve as mentors to mentees, providing guidance, leadership, and direction. They typically demonstrate strong ownership, clarity of purpose, initiative, and a high level of accountability.
 
-List of current core contributors: https://github.com/BlankOn/revival/blob/main/CoreContributors.md
+List of current core contributors: https://github.com/BlankOn/blankon-linux/blob/main/CoreContributors.md
 
 ### Mentee
 
