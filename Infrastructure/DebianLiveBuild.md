@@ -32,7 +32,7 @@ sudo yes | sudo ./build-iso https://github.com/BlankOn/blankon-live-build.git si
 
 ## General Workflow
 
-<img src="https://github.com/BlankOn/revival/blob/main/assets/images/blankon-live-build-workflow.png?raw=true"/>
+<img src="https://github.com/BlankOn/blankon-linux/blob/main/assets/images/blankon-live-build-workflow.png?raw=true"/>
 
 ## Configuration Overview
 
@@ -102,7 +102,7 @@ chroot: failed to run command ‘/bin/true’: No such file or directory
 
 The actual cause lies on missing `base-files` package. This package is blacklisted from repo. So, when we rebuild our repository (usually after corrupted incident), there will be no `base-files` package.
 
-Solution: package your `base-files` first to our repository. Please see blacklisted packages here: [https://github.com/BlankOn/revival/edit/main/Packages/MaintainerPackageList.md](https://github.com/BlankOn/revival/blob/main/Packages/MaintainerPackageList.md)
+Solution: package your `base-files` first to our repository. Please see blacklisted packages here: [https://github.com/BlankOn/blankon-linux/blob/main/Packages/PackageList.md](https://github.com/BlankOn/blankon-linux/blob/main/Packages/PackageList.md)
 
 ### Missing blankon-keyring package
 
@@ -123,7 +123,7 @@ Done in 00:01:56.
 Solution:
 
 You need to build the `blankon-keyring` package first:
-- https://github.com/BlankOn/revival/blob/main/Infrastructure/Keyring.md
+- https://github.com/BlankOn/blankon-linux/blob/main/Infrastructure/Keyring.md
 - https://github.com/blankon-packages/blankon-keyring/
 
 Then inject it to repository.

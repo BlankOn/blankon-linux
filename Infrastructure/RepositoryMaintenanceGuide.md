@@ -29,4 +29,4 @@ Process:
 ---
 
 References:
-- https://github.com/BlankOn/revival/blob/main/Infrastructure/Reprepro.md
+- https://github.com/BlankOn/blankon-linux/blob/main/Infrastructure/Reprepro.md

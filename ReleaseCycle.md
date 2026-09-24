@@ -6,7 +6,7 @@ Please refer to IRGSH documentation.
 
 ## 1. Live Build configuration
 
-Please refer to https://github.com/BlankOn/revival/blob/main/DebianLiveBuild.md
+Please refer to https://github.com/BlankOn/blankon-linux/blob/main/Infrastructure/DebianLiveBuild.md
 
 ## 2. Alpha Release
 

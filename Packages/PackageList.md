@@ -1,6 +1,6 @@
 # Package List
 
-To blacklist the package, see https://github.com/BlankOn/revival/blob/main/Infrastructure/Reprepro.md
+To blacklist the package, see https://github.com/BlankOn/blankon-linux/blob/main/Infrastructure/Reprepro.md
 
 ## blankon-keyring
 
@@ -11,7 +11,7 @@ sudo GNUPGHOME=/var/lib/irgsh/gnupg reprepro -v -v -v --nothingiserror --compone
 ```
 
 Please see:
-- https://github.com/BlankOn/revival/blob/main/Infrastructure/Keyring.md
+- https://github.com/BlankOn/blankon-linux/blob/main/Infrastructure/Keyring.md
 - https://github.com/blankon-packages/blankon-keyring/
 
 ## base-files (reprepro blacklist)
