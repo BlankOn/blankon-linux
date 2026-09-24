@@ -24,4 +24,4 @@ The use of generative AI for creating artwork is permitted, provided that it is 
 
 The use of generative AI should not replace thoughtful design decisions, and contributors remain responsible for the quality, appropriateness, and originality of the final work.
 
-For code contribution, please see our Artificial Intelligence Policy here: https://github.com/BlankOn/revival/blob/main/ArtificialIntelligencePolicy.md
+For code contribution, please see our Artificial Intelligence Policy here: https://github.com/BlankOn/blankon-linux/blob/main/ArtificialIntelligencePolicy.md
