@@ -6,9 +6,9 @@ The quickest way to start contributing is by joining our Telegram group (https:/
 
 Another quick way to contribute is by installing the development ISO and/or pointing your daily driver to our development repository (arsip-dev.blankonlinux.id). Test it, and report any findings or issues you encounter.
 
-If you are not sure, feel free to lurking around our wiki to get better understanding of our project.
+If you are not sure, feel free to lurk around our wiki to get a better understanding of our project.
 
-If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee. please send an email to blankon-dev@googlegroups.com.We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/revival/blob/main/Goals.md) and your potential role within it.
+If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee, please send an email to blankon-dev@googlegroups.com. We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/blankon-linux/blob/main/Goals.md) and your potential role within it.
 
 For further explanation about contributor categories and their contribution areas, please see the sections below.
 
@@ -22,7 +22,7 @@ Core Contributors are individuals who are committed to the project for the long 
 
 Core Contributors often serve as mentors to mentees, providing guidance, leadership, and direction. They typically demonstrate strong ownership, clarity of purpose, initiative, and a high level of accountability.
 
-List of current core contributors: https://github.com/BlankOn/revival/blob/main/CoreContributors.md
+List of current core contributors: https://github.com/BlankOn/blankon-linux/blob/main/CoreContributors.md
 
 ### Mentee
 
@@ -32,11 +32,11 @@ Over time, a mentee may graduate and potentially become a Core Contributor based
 
 ### Freelance Contributor
 
-Freelance Contributors are individuals who contribute to the project on a flexible, non-committed basis. They may join and leave as needed, without long-term responsibilities. Getting involved is easy, contribution is just one pull request away.
+Freelance Contributors are individuals who contribute to the project on a flexible, non-committed basis. They may join and leave as needed, without long-term responsibilities. Getting involved is easy: a contribution is just one pull request away.
 
 ## Team / Contribution Areas
 
-There is no dedicated Documentation Team. Every team is responsible for documenting their own activities, challenges, and achievements to this wiki, as part of their contribution to the project.
+There is no dedicated Documentation Team. Every team is responsible for documenting their own activities, challenges, and achievements in this wiki, as part of their contribution to the project.
 
 ### Package Maintainer
 
