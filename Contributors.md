@@ -53,6 +53,11 @@
   - Kunci Publik GPG: `D7C8687CA30BF7C07A776473C55FF431E2978972`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF3CK6yO53fE/Cc5116jrf/sAw8c37+3Ikvt2frFEb8G fathur.fathur7@gmail.com`
   - Kota: Bandung
+- Sendy Aditya Suryana <sendzation@gmail.com> (Sendy)
+  - Telegram: SENDYYeah
+  - Kunci Publik GPG: `23BB8A15E666424ABF6531876280B6C90D6795CE`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIr8pCFTEulMN8chtuX0NiDS6qkY24+Pstt3hlHDOQjU sendzation@gmail.com`
+  - Kota: Sleman, DIY
 
 ## Quality Assurance
 
@@ -80,11 +85,11 @@
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com
 ```
