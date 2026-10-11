@@ -1,4 +1,6 @@
-# Debug
+# AppImage
+
+## Debug
 
 The best way to identify the root cause of an AppImage launch issue is to launch the AppImage from a terminal, for example:
 
@@ -8,9 +10,9 @@ The best way to identify the root cause of an AppImage launch issue is to launch
 
 The terminal output will usually reveal why the AppImage fails to launch or crashes.
 
-# Known Issues
+## Known Issues
 
-## Master PDF Editor
+### Master PDF Editor
 
 https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4
 
