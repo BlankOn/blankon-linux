@@ -22,7 +22,7 @@ Core Contributors are individuals who are committed to the project for the long 
 
 Core Contributors often serve as mentors to mentees, providing guidance, leadership, and direction. They typically demonstrate strong ownership, clarity of purpose, initiative, and a high level of accountability.
 
-List of current core contributors: https://github.com/BlankOn/blankon-linux/blob/main/CoreContributors.md
+Some of the current core contributors are listed here: https://github.com/BlankOn/blankon-linux/blob/main/Contributors.md
 
 ### Mentee
 
