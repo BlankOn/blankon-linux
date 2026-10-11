@@ -8,15 +8,21 @@ sudo dpkg -i blankon-keyring_2020.11.25-4.5_all.deb
 ```
 
 
-## Replace the APT source
+## 2. Replace the APT source
 
 ```
 deb [signed-by=/usr/share/keyrings/blankon-archive-keyring.gpg] https://arsip.blankonlinux.id/sinambung sinambung main extras restricted restricted-firmware
 ```
 
-## Upgrade the distribution to Sinambung
+## 3. Upgrade the distribution to Sinambung
 
 ```
 sudo apt update
 sudo apt dist-upgrade
 ```
+
+## 4. Adjustment
+
+e.g. Install and config Praya GNOME Shell Extension.
+
+TBW.
