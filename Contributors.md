@@ -61,6 +61,11 @@
 
 ## Quality Assurance
 
+Mention all QA team,
+```
+@setooo @ydhstraw @marceldes
+```
+
 - Boim <mandexx@wearehackerone.com>
   - Telegram: @setooo
   - Kunci Publik GPG: `DF8B774832073DA40F8C4793A4016086E1F232BA`
