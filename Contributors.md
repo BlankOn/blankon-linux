@@ -90,6 +90,14 @@ Mention all QA team,
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH9PAJMIv9TTZZg4dH3ocspXLO88pHJ8uN9DobwIWHxb chairulakmal`
   - Kota: Tokyo
 
+## Public Relation
+
+- Sistiandy Syahbana Nugraha <sistiandy.syahbana@gmail.com> (Sistiandy)
+  - Telegram: sistiandy
+  - Kunci Publik GPG: `ADA08E1F5FC24158F521B0EC2E4A64CDEC19BC03`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIED2LB3ZM/kkkBGZCtUr55XCiRvH3aHjhTqAfiLhBrvD sistiandy.syahbana@gmail.com`
+  - Kota: Bogor
+    
 ---
 
 Mention them all in Telegram,
