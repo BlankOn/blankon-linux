@@ -40,6 +40,11 @@
   - Kunci Publik GPG: `536131E774B834A0E9A94341ADAFFEA5A9CBBAB8`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAz07e4ZUjccU91kym0/PvlNRi6EVyfKCuaT4m+pu1uj Adekabang`
   - Kota: Jakarta
+- James Ed Randson <jimedrand@waifu.club> (Jim (jimedrand/jimed-rand))
+  - Telegram: jimedrand
+  - Kunci Publik GPG: `03A3BD39420E0C31A66D14AF2739C90C9349BDF1`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4sKivtDEFynsVK8DuKtAibU143ZQ6RBh3Ap1Xf+qkR jimedrand@archie`
+  - Kota: Kabupaten Bandung
 
 ## Research and Development
 
@@ -97,17 +102,23 @@ Mention all QA team,
   - Kunci Publik GPG: `ADA08E1F5FC24158F521B0EC2E4A64CDEC19BC03`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIED2LB3ZM/kkkBGZCtUr55XCiRvH3aHjhTqAfiLhBrvD sistiandy.syahbana@gmail.com`
   - Kota: Bogor
+
+- Shaella Suhendro <shaella.tan@gmail.com> (Shaella)
+  - Telegram: tanshaella
+  - Kunci Publik GPG: `000B4B76451B4B3483A6885BA76CBF207A0DC270`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHyL6jFk0WGtKN97SHb3PTsvK2I/6phiL+DUD4YHvqdo shaella.tan@gmail.com`
+  - Kota: Semarang
     
 ---
 
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com
 ```
