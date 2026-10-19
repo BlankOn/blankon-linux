@@ -143,6 +143,7 @@ Summary
 #### Using GNOME Software
 
 ```
+sudo apt update
 sudo appstreamcli refresh --force
 gnome-software --quit
 gnome-software --verbose
