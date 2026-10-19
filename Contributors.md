@@ -68,7 +68,7 @@
 
 Mention all QA team,
 ```
-@setooo @ydhstraw @marceldes
+@setooo @ydhstraw @marceldes @yuza_y
 ```
 
 - Boim <mandexx@wearehackerone.com>
@@ -86,6 +86,11 @@ Mention all QA team,
   - Kunci Publik GPG: `51F1F7AC488192F53DF0E67C2E8735240DCF0F6B`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFZEeZy+xvOHQeb6xkbUl4b58wEjxlGFD197QoqTfmbR marcelioadivio.work@gmail.com`
   - Kota: Bekasi
+- Dirga Yuza <dirgayuza123@gmail.com> (Yuza)
+  - Telegram: marceldes
+  - Kunci Publik GPG: `01838BFF0D08AC5A9F7FEECCA141D45CD49414AA`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFeZ8tF4VwUy/XC188QrFzNxlLKRkoNRR5NmeeiSp9wM`
+  - Kota: Jakarta
 
 ## Documentation
 
@@ -114,11 +119,11 @@ Mention all QA team,
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com dirgayuza123@gmail.com
 ```
