@@ -87,7 +87,7 @@ Mention all QA team,
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFZEeZy+xvOHQeb6xkbUl4b58wEjxlGFD197QoqTfmbR marcelioadivio.work@gmail.com`
   - Kota: Bekasi
 - Dirga Yuza <dirgayuza123@gmail.com> (Yuza)
-  - Telegram: marceldes
+  - Telegram: yuza_y
   - Kunci Publik GPG: `01838BFF0D08AC5A9F7FEECCA141D45CD49414AA`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFeZ8tF4VwUy/XC188QrFzNxlLKRkoNRR5NmeeiSp9wM`
   - Kota: Jakarta
