@@ -40,6 +40,11 @@
   - Kunci Publik GPG: `536131E774B834A0E9A94341ADAFFEA5A9CBBAB8`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAz07e4ZUjccU91kym0/PvlNRi6EVyfKCuaT4m+pu1uj Adekabang`
   - Kota: Jakarta
+- James Ed Randson <jimedrand@waifu.club> (Jim (jimedrand/jimed-rand))
+  - Telegram: jimedrand
+  - Kunci Publik GPG: `03A3BD39420E0C31A66D14AF2739C90C9349BDF1`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4sKivtDEFynsVK8DuKtAibU143ZQ6RBh3Ap1Xf+qkR jimedrand@archie`
+  - Kota: Kabupaten Bandung
 
 ## Research and Development
 
