@@ -64,6 +64,12 @@
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIr8pCFTEulMN8chtuX0NiDS6qkY24+Pstt3hlHDOQjU sendzation@gmail.com`
   - Kota: Sleman, DIY
 
+- Restu Haqqi Muzakir <restu@linux.com> (Restu)
+  - Telegram: restuhaqza
+  - Kunci Publik GPG: `E4343798DDD07804FB92FA99A344DAE900A734B7`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDYnFb18lkjjk/sRgV/JBHmtJ5+1xwyQxCo2Dfd9ogAk Restu Muzakir <restu@linux.com>`
+  - Kota: Yogyakarta & Siak
+
 ## Quality Assurance
 
 Mention all QA team,
@@ -119,11 +125,11 @@ Mention all QA team,
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y @restuhaqza
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com dirgayuza123@gmail.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com, dirgayuza123@gmail.com, restu@linux.com
 ```
