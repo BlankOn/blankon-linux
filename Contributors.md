@@ -74,7 +74,7 @@
 
 Mention all QA team,
 ```
-@setooo @ydhstraw @marceldes @yuza_y
+@setooo @ydhstraw @marceldes @yuza_y @fasyalearns
 ```
 
 - Boim <mandexx@wearehackerone.com>
@@ -97,6 +97,11 @@ Mention all QA team,
   - Kunci Publik GPG: `01838BFF0D08AC5A9F7FEECCA141D45CD49414AA`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFeZ8tF4VwUy/XC188QrFzNxlLKRkoNRR5NmeeiSp9wM`
   - Kota: Jakarta
+- Kamal Fasya <kamalfasya01@gmail.com> (Fasya)
+  - Telegram: fasyalearns
+  - Kunci Publik GPG: `2EF97B4B98E5CEF138B84775D62B1809DC87AF36`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKg6XP6+qSylfafTt+A4uZRvObwUN10w0SuSfVOMAl7n `
+  - Kota: Yogyakarta & Banda Aceh
 
 ## Documentation
 
@@ -125,11 +130,11 @@ Mention all QA team,
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y @restuhaqza
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y @restuhaqza @fasyalearns
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com, dirgayuza123@gmail.com, restu@linux.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com, dirgayuza123@gmail.com, restu@linux.com kamalfasya01@gmail.com
 ```
