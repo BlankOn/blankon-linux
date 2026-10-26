@@ -1,12 +1,16 @@
 # How to Contribute
 
+One of our goals is to achieve **Goal #1** (see [our goals](https://blankonlinux.id/en/wiki/Goals)): to create a safe space where people can learn and contribute.
+
+This document is intended to make it easier for newcomers to get started with contributing to BlankOn Linux. If you feel that we are falling short of this goal, please reach out to any of the contributors listed on [our Contributors page](https://blankonlinux.id/en/wiki/Contributors).
+
 ## Getting Started
 
 The quickest way to start contributing is by joining our Telegram group (https://t.me/BlankOnLinux/51909). Follow the ongoing discussions, understand the current priorities, and take action to help the team as a Freelance Contributor.
 
 Another quick way to contribute is by installing the development ISO and/or pointing your daily driver to our development repository (arsip-dev.blankonlinux.id). Test it, and report any findings or issues you encounter.
 
-If you are not sure, feel free to lurk around our wiki to get a better understanding of our project.
+If you are not sure, feel free to lurk around our wiki to get a better understanding of our project or poke one of our contributors in Telegram group.
 
 If you believe you can commit to the project as a serious long-term side endeavor, either as a Core Contributor or a Mentee, please send an email to blankon-dev@googlegroups.com. We will arrange a meeting to exchange expectations, discuss responsibilities, and ensure mutual [understanding about the project's direction](https://github.com/BlankOn/blankon-linux/blob/main/Goals.md) and your potential role within it.
 
