@@ -45,6 +45,11 @@
   - Kunci Publik GPG: `03A3BD39420E0C31A66D14AF2739C90C9349BDF1`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4sKivtDEFynsVK8DuKtAibU143ZQ6RBh3Ap1Xf+qkR jimedrand@archie`
   - Kota: Kabupaten Bandung
+- Febriyanto Nugroho <febriyantonugroho51@gmail.com> (Febriyanto Nugroho)
+  - Telegram: febnug
+  - Kunci Publik GPG: `F8742BBD00CFFF6F5D365E48A0817076265BC6A3`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkQuNzKgADErVFXOAdDMX1WOpLuq/MmCR8LU2n1WNdt febriyantonugroho51@gmail.com`
+  - Kota: Jakarta
 
 ## Research and Development
 
