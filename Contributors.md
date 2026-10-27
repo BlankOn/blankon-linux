@@ -40,6 +40,11 @@
   - Kunci Publik GPG: `03A3BD39420E0C31A66D14AF2739C90C9349BDF1`
   - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4sKivtDEFynsVK8DuKtAibU143ZQ6RBh3Ap1Xf+qkR jimedrand@archie`
   - Kota: Kabupaten Bandung
+- Febriyanto Nugroho <febriyantonugroho51@gmail.com> (Febriyanto Nugroho)
+  - Telegram: febnug
+  - Kunci Publik GPG: `F8742BBD00CFFF6F5D365E48A0817076265BC6A3`
+  - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkQuNzKgADErVFXOAdDMX1WOpLuq/MmCR8LU2n1WNdt febriyantonugroho51@gmail.com`
+  - Kota: Jakarta
 
 ## Research and Development
 
@@ -130,11 +135,11 @@ Mention all QA team,
 Mention them all in Telegram,
 
 ```
-@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y @restuhaqza @fasyalearns @ilhamfauzan
+@harsxv @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @al1r4d @setooo @Sistiandy @TreeFPV @esteween @akmalofmachida @SENDYYeah @marceldes @myamiruloh @ydhstraw @tanshaella @yuza_y @restuhaqza @fasyalearns @ilhamfauzan @febnug
 ```
 
 Batch recipients for email message,
 
 ```
-harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com, dirgayuza123@gmail.com, restu@linux.com, kamalfasya01@gmail.com, mail@ilhamfauzan.com
+harsxv@gmail.com, dzakwan.corp@gmail.com, herpiko@gmail.com, luckymahendra080503@gmail.com, raffifu@protonmail.com, hey@raska.id, atqamz@gmail.com, fathur.fathur7@gmail.com, mandexx@wearehackerone.com,  asafrudin@blankon.id, stwn@blankon.id, sistiandy@blankon.id, levay@blankon.id, chairulakmal@protonmail.com, sendzation@gmail.com, marcelioadivio.work@gmail.com, amiruloh65@gmail.com, yudhistira.wardhana@gmail.com, shaella.tan@gmail.com, dirgayuza123@gmail.com, restu@linux.com, kamalfasya01@gmail.com, mail@ilhamfauzan.com, febriyantonugroho51@gmail.com
 ```
