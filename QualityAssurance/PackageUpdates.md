@@ -1,7 +1,8 @@
 # Testing Package Updates
 
 1. Precondition: you have a fresh installed system of BlankOn Sinambung's latest stable release.
-2. Update the repository index
+2. Make sure your system pointed to arsip.blankonlinux.id, **NOT arsip-dev**.
+3. Update the repository index
 ```
 sudo apt update
 ```
@@ -9,7 +10,11 @@ sudo apt update
 ```
 sudo apt full-upgrade
 ```
-4. Install the non-preexisting updated packages. To get the list of package,
+4. Update your repository setting to arsip-dev.blankonlinux.id, then repeat step 3 and 4.
+
+# Testing Non-preexisting Package Updates
+
+Install the non-preexisting updated packages. To get the list of package,
   - Go to https://packages.blankonlinux.id/
   - Click `arsip.blankonlinux.id` tab
   - Click `Diff against arsip-dev`
