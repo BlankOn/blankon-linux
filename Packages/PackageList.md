@@ -45,6 +45,14 @@ irgsh-cli package --dist sinambung --package https://github.com/blankon-packages
 irgsh-cli package --dist sinambung --package https://github.com/blankon-packages/calamares-settings-blankon.git --package-branch sinambung --source https://salsa.debian.org/live-team/calamares-settings-debian.git --source-branch master --ignore-checks
 ```
 
+## warsi
+
+Originally bazaar, heavily patched to support Debian APT updates.
+
+```
+irgsh-cli package --source https://github.com/BlankOn/bazaar --source-branch main --package https://github.com/blankon-packages/bazaar --package-branch master --skip-local-build --dist sinambung --ignore-checks
+```
+
 ## praya-gnome-shell-extension
 
 ```
