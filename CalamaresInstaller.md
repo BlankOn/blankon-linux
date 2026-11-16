@@ -13,3 +13,11 @@ Calamares need to be run with sudo. For full debug mode, run with this command:
 ```
 sudo calamares -D8 | sudo tee calamares.log
 ```
+
+## Log on production
+
+If users get failed installation, please ask them to handover this log file:
+
+```
+/tmp/calamares-blankon.log
+```
