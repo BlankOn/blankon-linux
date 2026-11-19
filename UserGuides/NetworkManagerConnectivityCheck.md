@@ -38,23 +38,27 @@ If `CONNECTIVITY` is `none` and the pings fail, the problem is a real one: check
 
 ## Workaround
 
-Disable the connectivity probe by creating the following configuration file:
+Point NetworkManager's connectivity check at a reliable, plain-HTTP endpoint:
 
 ```bash
 sudo mkdir -p /etc/NetworkManager/conf.d
 sudo tee /etc/NetworkManager/conf.d/20-connectivity.conf <<'EOF'
 [connectivity]
-uri=
+uri=http://nmcheck.gnome.org/check_network_status.txt
+interval=15
+timeout=5
 EOF
 sudo systemctl restart NetworkManager
 ```
 
-After a few seconds, check again:
+The endpoint returns the text `NetworkManager is online`, which is what NetworkManager expects. Using plain HTTP instead of HTTPS avoids certificate failures when the system clock has not synced yet during boot.
+
+Check the result:
 
 ```bash
 nmcli general status
 ```
 
-The result should now show `CONNECTIVITY: full`, and the panel icon should return to a normal connected LAN icon.
+It should show `CONNECTIVITY: full`, with the panel icon back to a normal connected LAN icon. Because the check stays enabled, NetworkManager re-evaluates on its own after each reboot — usually within 15 seconds of the network coming up.
 
-This change only stops NetworkManager from second-guessing a working connection. It does not change how the machine connects to the network and it survives a reboot.
+**Do not use `uri=` (an empty value) as a workaround.** That disables the check completely, so if NetworkManager starts in the `limited` state it never re-evaluates and the question mark returns after every reboot. Restarting NetworkManager manually only hides it temporarily.
